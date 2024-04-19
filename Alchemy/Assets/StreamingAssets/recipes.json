@@ -1,0 +1,484 @@
+{
+  "recipes": [
+    {
+      "Result": "Алюминий",
+      "Ingredients": [ "Железо", "Электричество" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Аметист",
+      "Ingredients": [ "Камень", "Лаванда" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Алкоголь",
+      "Ingredients": [ "Огонь", "Вода" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Бутан",
+      "Ingredients": [ "Углекислый газ", "Сжиженный газ" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Бетон",
+      "Ingredients": [ "Песок", "Вода" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Бомба",
+      "Ingredients": [ "Порох", "Огонь" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Блестящая пудра",
+      "Ingredients": [ "Пыль", "Волшебный порошок" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Батарейка",
+      "Ingredients": [ "Энергия", "Алюминий" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Бриллиант",
+      "Ingredients": [ "Уголь", "Время" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Ветер",
+      "Ingredients": [ "Воздух", "Воздух" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Время",
+      "Ingredients": [ "Песок", "Стекло" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Водород",
+      "Ingredients": [ "Свет", "Время" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Волшебный порошок",
+      "Ingredients": [ "Энергия", "Пыль" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Вирус",
+      "Ingredients": [ "Гриб", "Воздух" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Веревка",
+      "Ingredients": [ "Паутина", "Паутина" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Гелий",
+      "Ingredients": [ "Энергия", "Воздух" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Газированная вода",
+      "Ingredients": [ "Вода", "Углекислый газ" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Гриб",
+      "Ingredients": [ "Земля", "Темнота" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Газировка",
+      "Ingredients": [ "Газированная вода", "Сахар" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Грязь",
+      "Ingredients": [ "Пыль", "Вода" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Дерево",
+      "Ingredients": [ "Земля", "Вода" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Древесный уголь",
+      "Ingredients": [ "Дерево", "Огонь" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Душа",
+      "Ingredients": [ "Жизнь", "Свет" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Железо",
+      "Ingredients": [ "Камень", "Уголь" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Женьшень",
+      "Ingredients": [ "Корни", "Волшебный порошок" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Жизнь",
+      "Ingredients": [ "Энергия", "Вода" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Жемчужина",
+      "Ingredients": [ "Вода", "Время" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Зелье сосредоточения",
+      "Ingredients": [ "Энергия", "Время" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Золото",
+      "Ingredients": [ "Вода", "Серебро" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Изумруд",
+      "Ingredients": [ "Бомба", "Время" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Камень",
+      "Ingredients": [ "Земля", "Земля" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Кирпич из глины",
+      "Ingredients": [ "Грязь", "Огонь" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Кирпич из песка",
+      "Ingredients": [ "Грязь", "Песок" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Корни",
+      "Ingredients": [ "Дерево", "Земля" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Книга",
+      "Ingredients": [ "Вода", "Дерево" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Клетка",
+      "Ingredients": [ "Жизнь", "Жизнь" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Карамель",
+      "Ingredients": [ "Сахар", "Огонь" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Кровь",
+      "Ingredients": [ "Жизнь", "Серебро" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Костная мука",
+      "Ingredients": [ "Жизнь", "Время" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Клевер трехлистный",
+      "Ingredients": [ "Дерево", "Волшебный порошок" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Клевер четырехлистный",
+      "Ingredients": [ "Клевер трехлистный", "Волшебный порошок" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Лаванда",
+      "Ingredients": [ "Цветы", "Свет" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Любовь",
+      "Ingredients": [ "Душа", "Душа" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Лазер",
+      "Ingredients": [ "Свет", "Аметист" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Лед",
+      "Ingredients": [ "Вода", "Стекло" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Масло",
+      "Ingredients": [ "Семя", "Огонь" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Мороженое",
+      "Ingredients": [ "Молоко", "Лед" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Мыло",
+      "Ingredients": [ "Пепел", "Вода" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Молоко",
+      "Ingredients": [ "Жизнь", "Вода" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Медь",
+      "Ingredients": [ "Огонь", "Железо" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Монета",
+      "Ingredients": [ "Серебро", "Золото" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Облако",
+      "Ingredients": [ "Воздух", "Пар" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Озон",
+      "Ingredients": [ "Электричество", "Воздух" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Обсидиан",
+      "Ingredients": [ "Камень", "Огонь" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Пар",
+      "Ingredients": [ "Воздух", "Вода" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Пиво",
+      "Ingredients": [ "Семя", "Алкоголь" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Пепел",
+      "Ingredients": [ "Огонь", "Земля" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Плазма",
+      "Ingredients": [ "Электричество", "Углекислый газ" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Песок",
+      "Ingredients": [ "Вода", "Камень" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Порох",
+      "Ingredients": [ "Пепел", "Огонь" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Перо",
+      "Ingredients": [ "Жизнь", "Воздух" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Паутина",
+      "Ingredients": [ "Пыль", "Клетка" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Пчелиные соты",
+      "Ingredients": [ "Цветы", "Время" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Пыль",
+      "Ingredients": [ "Воздух", "Земля" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Рубин",
+      "Ingredients": [ "Камень", "Кровь" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Свет",
+      "Ingredients": [ "Энергия", "Огонь" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Семя",
+      "Ingredients": [ "Жизнь", "Земля" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Стекло",
+      "Ingredients": [ "Огонь", "Песок" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Сжиженный газ",
+      "Ingredients": [ "Лед", "Углекислый газ" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Сера",
+      "Ingredients": [ "Железо", "Воздух" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Сахар",
+      "Ingredients": [ "Алкоголь", "Волшебный порошок" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Сыр",
+      "Ingredients": [ "Молоко", "Время" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Сливочное масло",
+      "Ingredients": [ "Молоко", "Огонь" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Сапфир",
+      "Ingredients": [ "Огонь", "Уголь" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Свинец",
+      "Ingredients": [ "Огонь", "Время" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Серебро",
+      "Ingredients": [ "Свет", "Вода" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Соль",
+      "Ingredients": [ "Костная мука", "Волшебный порошок" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Табак",
+      "Ingredients": [ "Огонь", "Цветы" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Темнота",
+      "Ingredients": [ "Бомба", "Бомба" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Таблетки",
+      "Ingredients": [ "Гриб", "Порох" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Топаз",
+      "Ingredients": [ "Свет", "Камень" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Уголь",
+      "Ingredients": [ "Древесный уголь", "Огонь" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Углекислый газ",
+      "Ingredients": [ "Уголь", "Воздух" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Факел",
+      "Ingredients": [ "Огонь", "Книга" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Цветы",
+      "Ingredients": [ "Дерево", "Свет" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Целебное зелье",
+      "Ingredients": [ "Женьшень", "Женьшень" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Цинк",
+      "Ingredients": [ "Медь", "Огонь" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Чеснок",
+      "Ingredients": [ "Семя", "Семя" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Черный жемчуг",
+      "Ingredients": [ "Огонь", "Жемчужина" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Шарик",
+      "Ingredients": [ "Воздух", "Гелий" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Электричество",
+      "Ingredients": [ "Облако", "Железо" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Эликсир силы",
+      "Ingredients": [ "Энергия", "Жизнь" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Энергия",
+      "Ingredients": [ "Воздух", "Огонь" ],
+      "FinalElement": false
+    },
+    {
+      "Result": "Яйцо",
+      "Ingredients": [ "Жизнь", "Камень" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Яблоко",
+      "Ingredients": [ "Цветы", "Энергия" ],
+      "FinalElement": true
+    },
+    {
+      "Result": "Яд",
+      "Ingredients": [ "Гриб", "Огонь" ],
+      "FinalElement": true
+    }
+  ]
+}
